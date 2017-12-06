@@ -1,0 +1,49 @@
+Python
+5th gen
+Easy Syntax
+High Level
+General Purpose Language
+Scripting/Programming
+Interpreted/Complied
+
+No Compilation step
+Loosely Typed language - No Data types
+Weakly Typed Language - No semicolon, No curly braces
+
+Core Python
+Strings
+Loops
+If else
+Functions
+List, Dictionary, Tuples, Set
+Filter, Map, Lambda
+File Handling
+Exception Handling
+Game Development
+
+Data Analysis
+Statistics
+Machine Learning
+Deep Learning
+
+Advance Python
+Software
+Web
+Game
+Database
+Networking
+
+Django
+
+
+
+
+
+
+
+
+
+
+
+
+
