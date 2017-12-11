@@ -1,14 +1,5 @@
-def calc(x,y,ch):
-    if ch == "1":
-        return x + y
-    elif ch == "2":
-        return x - y
-    elif ch == "3":
-        return x / y
-    elif ch == "4":
-        return x * y
-    else:
-        return "Wrong choice"
+def calc(x,y,opr):
+    return eval(x + opr + y)
 
 print("""
 1. Add
